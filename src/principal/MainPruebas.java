@@ -1,6 +1,6 @@
-package Principal;
+package principal;
 
-public class Main {
+public class MainPruebas {
 	public static void main(String[] args) {
 	
 		
